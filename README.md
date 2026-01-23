@@ -1,7 +1,11 @@
 <<<<<<< HEAD
 <h2 align="center">
   Portfolio Website - v2.0<br/>
+<<<<<<< HEAD
   <a href="https://sourabh-portfolio-ruby.vercel.app/" target="_blank">Sourabh4017</a>
+=======
+  <a href="https://Sourabh4017.vercel.app/" target="_blank">Sourabh4017</a>
+>>>>>>> a7a24e7 (Fix ESLint build errors)
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
@@ -32,7 +36,11 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 ## Built With
 
+<<<<<<< HEAD
 My personal portfolio <a https://sourabh-portfolio-ruby.vercel.app/" target="_blank">Sourabh4017</a> which features some of my github projects as well as my resume and technical skills.<br/>
+=======
+My personal portfolio <a href="https://Sourabh4017.vercel.app/" target="_blank">Sourabh4017</a> which features some of my github projects as well as my resume and technical skills.<br/>
+>>>>>>> a7a24e7 (Fix ESLint build errors)
 
 This project was built using these technologies.
 
@@ -74,7 +82,11 @@ You will find all the components used and you can edit your information accordin
 
 Give a ⭐ if you like this website!
 
+<<<<<<< HEAD
 <a href="https://portfolio-sourabh-lilac.vercel.app/" tar4017get="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+=======
+<a href="https://www.buymeacoffee.com/Sourabh" tar4017get="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+>>>>>>> a7a24e7 (Fix ESLint build errors)
 =======
 # portfolio-sourabh
 This reco to creat final portfolio
