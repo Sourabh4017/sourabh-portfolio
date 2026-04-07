@@ -31,6 +31,28 @@ function Projects() {
               demoLink="https://wanderlust-project-yu4j.onrender.com/listings"
             />
           </Col>
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Cafe Nippon – Restaurant Management System "
+              description="A comprehensive restaurant management system built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that streamlines operations and enhances customer experience. The system includes features such as menu management, order processing, table reservations, and real-time analytics. With a user-friendly interface and robust backend, Cafe Nippon helps restaurant owners efficiently manage their business while providing customers with a seamless dining experience."
+              ghLink="https://github.com/Sourabh4017/cafe_managment"
+              demoLink="https://cafe-sourabh2.vercel.app/"
+            />
+          </Col>
+        </Row>
+         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Colony_management"
+              description=""
+              ghLink="https://github.com/Sourabh4017/Colony_managemen"
+              // demoLink="https://wanderlust-project-yu4j.onrender.com/listings"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
